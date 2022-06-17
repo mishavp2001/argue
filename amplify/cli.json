@@ -10,8 +10,6 @@
       "skipoverridemutationinputtypes": true,
       "transformerversion": 2,
       "suppressschemamigrationprompt": true,
-      "securityenhancementnotification": false,
-      "showfieldauthnotification": false,
       "usesubusernamefordefaultidentityclaim": true,
       "usefieldnameforprimarykeyconnectionfield": false,
       "enableautoindexquerynames": false
