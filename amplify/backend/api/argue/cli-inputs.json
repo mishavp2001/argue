@@ -6,7 +6,11 @@
     "gqlSchemaPath": "/Users/mikhail.polyakov/dev/argue/amplify/backend/api/argue/schema.graphql",
     "defaultAuthType": {
       "mode": "API_KEY",
-      "expirationTime": 7
-    }
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-06-24T01:19:41.212Z",
+      "keyDescription": ""
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
   }
 }
